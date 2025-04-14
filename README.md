@@ -10,6 +10,9 @@ This C++ tool provides basic encryption and decryption functionalities using the
 ## Usage
 
 1. Clone or download the repository.
+```bash
+git clone https://github.com/tr33k/3NCD3C.git
+```
 2. Build the project with CMake.
 3. Run the program and follow the on-screen instructions to encrypt or decrypt messages or files.
 
